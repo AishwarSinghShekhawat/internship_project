@@ -1,0 +1,21 @@
+.custom-h{
+    margin-top: 10%;
+}
+
+.button{
+
+  padding-top: 12px;
+  padding-right:12px;
+  padding-bottom: 12px;
+  padding-left: 12px;
+}
+
+.c-form{
+
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(84, 84, 84);
+  padding: 50px;
+  background-color: aliceblue;
+
+}
